@@ -1,5 +1,5 @@
 ### General Info
-This is my implemtantion of the second project for the Udacity Intel Edge AI course, regarding the Choosing Right Hardware chapter. The project contained Jyputer notebooks, that were executed on Intel Dev Cloud from the workspace Provided by Udacity.
+This is my implemtantion of the second project for the Udacity Intel Edge AI course, regarding the Choosing Right Hardware chapter. The project contained Jupyter notebooks, that were executed on Intel Dev Cloud from the workspace Provided by Udacity.
 
 ### Main Tasks
 
